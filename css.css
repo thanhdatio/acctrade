@@ -19,3 +19,7 @@ html {
   margin: 4px 2px;
   cursor: pointer;
 }
+a{
+    position:fixed; 
+    bottom:10px;
+}
